@@ -116,6 +116,7 @@ Product Add
                                         @enderror
                                     </div>
                                 </div><!-- col-4 -->
+                                
                                 <div class="col-lg-12">
                                     <div class="form-group">
                                         <label class="form-control-label">Short Description: <span

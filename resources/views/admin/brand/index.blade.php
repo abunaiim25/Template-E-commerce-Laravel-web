@@ -61,7 +61,7 @@ Brand
                                                 @if ($row->status == 1)
                                                     <span class="badge badge-success">Active</span>
                                                 @else
-                                                    <span class="badge badge-danger">Iactive</span>
+                                                    <span class="badge badge-danger">Inactive</span>
                                                 @endif
                                             </td>
                                             <td>
