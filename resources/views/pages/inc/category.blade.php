@@ -12,7 +12,7 @@
         @foreach ($categories as $row)
         <li><a href="{{url('category/product-show/'.$row->id)}}">{{$row->category_name}}</a></li>
         @endforeach
-       
+    
       
     </ul>
 </div>

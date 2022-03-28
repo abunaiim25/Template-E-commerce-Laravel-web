@@ -53,7 +53,6 @@ class CartController extends Controller
         return Redirect()->back()->with('cart_update','Quantity Updated');
     }
 
-
     
     // --------------- coupon applied =------------ 
     public function applyCoupon(Request $request){

@@ -3,7 +3,7 @@
 @section('brand') active @endsection
 
 @section('title')
-Brand 
+    Brand
 @endsection
 
 
@@ -85,6 +85,7 @@ Brand
                     </div><!-- card -->
                 </div>
 
+                
                 <div class="col-md-4">
                     <div class="card">
                         <div class="card-header">Add Brand
@@ -126,4 +127,5 @@ Brand
             </div>
 
         </div>
-    @endsection
+    </div>
+@endsection

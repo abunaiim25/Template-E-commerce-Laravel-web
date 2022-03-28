@@ -91,7 +91,6 @@ Home
                     </div>
                     <div class="featured__controls">
                         <ul>
-                            {{----}}
                             <li class="active" data-filter="*">All</li>
                             @foreach ($categories as $cat)
                                 <li data-filter=".filter{{ $cat->id }}">{{ $cat->category_name }}</li>

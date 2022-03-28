@@ -67,5 +67,5 @@ class FontendController extends Controller
         return view('pages.cat-product',compact('products','categories','lts_p','main'));
     }
 
-    
+
 }

@@ -47,8 +47,7 @@
                             </table>
                         </div><!-- table-wrapper -->
                     </div><!-- form-layout -->
-                </div><!-- card -->
-
+                </div>
 
 
                 <div class="card pd-20 pd-sm-40 w-100 mt-4">
@@ -101,8 +100,7 @@
                             </div><!-- col-4 -->
                         </div><!-- row -->
                     </div><!-- form-layout -->
-                </div><!-- card -->
-
+                </div>
                 
 
 
@@ -173,7 +171,7 @@
                             </div><!-- col-4 -->
                         </div><!-- row -->
                     </div><!-- form-layout -->
-                </div><!-- card -->
+                </div>
 
 
 

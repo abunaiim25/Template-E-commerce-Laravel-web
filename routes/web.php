@@ -89,7 +89,6 @@ Route::put('admin-main-update',[MainController::class,'update']);
 
 
 
-
 //=============fronted Cart section===============
 Route::post('add/to-cart/{product_id}',[CartController::class,'addToCart']);
 Route::get('cart',[CartController::class,'cartPage']);
